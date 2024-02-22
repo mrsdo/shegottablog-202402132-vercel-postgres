@@ -1,6 +1,6 @@
-import Link from '@/components/shared/Link';
-import Tag from '@/components/shared/Tag';
-import { siteConfig } from '@/data/config/site.settings';
+import Link from '../shared/Link';
+import Tag from '../shared/Tag';
+import { siteConfig } from '../../data/config/site.settings';
 import { formatDate } from '@shipixen/pliny/utils/formatDate';
 import NewsletterForm from '@shipixen/pliny/ui/NewsletterForm';
 import { sortPosts, allCoreContent } from '@shipixen/pliny/utils/contentlayer';

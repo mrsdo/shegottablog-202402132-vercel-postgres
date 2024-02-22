@@ -1,12 +1,5 @@
-SheGottaBlog
-==================
-
-#### Learn by Doing!
-Exploring the MERN stack (MongoDB, Express, React, Node.JS), Next.js, and ApollographQL.
-
-> This website was generated with [shipixen.com](https://shipixen.com).
->
-> For more documentation, visit [the shipixen Docs](https://shipixen.com/boilerplate-documentation)
+# Shipixen Boilerplate
+=============
 
 ### Table of contents
 
@@ -16,9 +9,9 @@ Exploring the MERN stack (MongoDB, Express, React, Node.JS), Next.js, and Apollo
 - [Deploy](#deploy)
 - [Extend / Customize](#extend--customize)
 - [Post](#post)
-  - [Frontmatter](#frontmatter)
+ - [Frontmatter](#frontmatter)
 - [Frequently Asked Questions](#frequently-asked-questions)
-  - [How can I add a custom MDX component?](#how-can-i-add-a-custom-mdx-component)
+ - [How can I add a custom MDX component?](#how-can-i-add-a-custom-mdx-component)
 
 ## Installation
 
@@ -219,4 +212,9 @@ export const data = {
 
 <DonutChart data={data} />
 ```
+
+
+> ### Resources:
+
+- Site Bootstrap: https://shipixen.com/
 
